@@ -15,6 +15,6 @@
 #3 패키지 선택하여 빌드
 colcon build --packages-select save_jpg_pcd
 
-#2 패키지 적용
+#3 패키지 적용
 . install/setup.bash
 
